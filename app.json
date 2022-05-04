@@ -1,0 +1,11 @@
+{
+  "name": "bugbot1",
+  "description": "WhatsApp Bug Bot",
+  "repository": "https://github.com/ngasanaawan11/bugbot1",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
